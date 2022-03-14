@@ -1,3 +1,5 @@
+//BASIC JAVASCRIPT COURSE
+
 //Printing out a plain text
 console.log('Hello, From Main.js')
 
